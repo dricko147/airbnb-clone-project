@@ -30,12 +30,21 @@ Week	Projects
 15 - 16	Final Project Review and Presentation
 
 <H2>Technologies Used 💻</H2>
-Introduction to the tech stack:
+<p>Introduction to the tech stack:
 Frontend: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
 Backend: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
 Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
-<h1>Software Development Team Roles 👥</h1>
+
+
+Let’s get started on this exciting journey! 🚀<p>
+
+
+<h1>“UI/UX Design Planning.”</h1>
+
+<h1>“Project Roles and Responsibilities.”</h1>
+
+<h2>Software Development Team Roles 👥</h2>
 In a software development project, clearly defined roles and responsibilities are crucial for success. Here’s a breakdown of the typical roles within a development team and their key responsibilities:
 
 <H2>Project Manager (PM) 🗂️</H2>
@@ -111,4 +120,4 @@ Coach the team on Agile principles and practices.
 Ensure continuous improvement within the team.
 These roles are essential for the success of a software development project. Clear communication and collaboration among team members ensure that the project is completed on time, within budget, and meets the desired quality standards.
 
-Let’s get started on this exciting journey! 🚀
+<h1>“UI Component Patterns”</h1>
