@@ -210,6 +210,17 @@ A property card is a UI component is a design element used to present content in
 A website footer is a UI pattern at the bottom (or footer) of a website or application. Footers are important website components because they display helpful information, including navigational links, contact details, policies, copyright info, and social media links, so users can learn more about the website.
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
