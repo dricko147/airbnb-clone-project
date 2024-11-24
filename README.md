@@ -33,24 +33,26 @@ Let’s dive in! 🚀</p>
 <b>User Authentication:</b> Secure login and registration for users.
 
 <h3>Property Listing View</h3>
+<P>This is the main interface of the AirBnB clone. It shows a clean and modern layout with various property listings displayed, each with a title, price, and a brief description. The design focuses on user-friendly navigation and visual appeal.This is  page displaying various property listings with essential details and images.</p>
 
 <h3>Listing Detailed View</h3>
+<p>This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters. This is a detailed view of a specific property, including more extensive information and images.</p>
 
 <h3>Simple Checkout View in a table view</h3>
+<p>This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience..</p>
+
+Below is an outlined chekout step for booking the AirBnB
 
 <table>
 <tr>
-<th><h2>Check 🗓️ Out</h2></th>
+<th><h2>DETAILED CHECK 🗓️ OUT STEPS</h2></th>
 </tr>
 <tr>
-<td>CHECK OUT IS AT 12 NOON</td>
-<td>PLACE USED DISHES IN THE DISHWASHER</td>
-<td>LEAVE USED TOWELS ON THE FLOOR</td>
-<td>DOUBLE CHECK FOR PERSONAL ITEMS</td>
-<td>CLOSE ALL WINDOWS AND LOCK ALL DOORS</td>
-<td>TURN OFF LIGHTS AND AC/HEATER</td>
-<td>NOTIFY OWNER OF DEPARTURE</td>
-</tr>
+<td>Click the listing you want to reserve</td>
+<td>Select dates, number of guests, then click Reserve</td>
+<td>If you are shown Confirm and pay, you can book instantly</td>
+<td>If you are shown Request to book, you can add payment info, review the policies and terms, and message the Host before you submit the request</td>
+<td>If you booked instantly, you’re good to go. If you sent a request, your Host will typically respond within 24 hours.</td></tr>
 </table>
 
 <h3>Importance of a user-friendly design in a booking system</h3>
