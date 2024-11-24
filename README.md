@@ -7,8 +7,7 @@
 <li>Identify key features to be implemented.</li>
 <li>Adhere to designated timelines and milestones.</li>
 <li>Utilize the necessary tools and technologies.</li>
-<li>Singlehandedly fulfill roles and responsibilities within the project.<li>
-</Ul>
+<li>Singlehandedly fulfill roles and responsibilities within the project.<li></Ul>
 
 
 <H2>Design Goals 🎯</H2>
@@ -92,11 +91,7 @@ Let’s dive in! 🚀</p>
 <li>--font-weight-bold: 700;</li></ul>
 
 <b>Font Size</b>
-<ul>
-<li>--font-weight-regular: 400;</li>
-<li>--font-weight-bold: 700;</li>
-  
-<li>--line-height-small: 1.2;</li>
+<ul> <li>--line-height-small: 1.2;</li>
 <li>--line-height-base: 1.5;</li>
 <li>--line-height-big: 1.8;</li>
     
