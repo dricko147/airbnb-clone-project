@@ -14,8 +14,9 @@
 At its core, Airbnb is driven by a simple mission statement with bold ambitions: “To create a world where anyone can belong anywhere.” At the same time, I want to create an end-to-end platform that will be able to take care of every part of a travelers trip.</p>
 
 <H2>Technologies Stack 💻</H2>
-<p>Introduction to the tech stack:
+
 <b>Frontend:</b> React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
+<br>
 <b>Backend:</b> Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
 Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
