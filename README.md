@@ -2,14 +2,14 @@
 
 <p>At the end of this program, I will have developed adequate knowledge and skills to implement any type of system. I will:</p>
 
-<Ul>
+<ul>
 <li>Understand the project scope.</li>
 <li>Identify key features to be implemented.</li>
 <li>Adhere to designated timelines and milestones.</li>
 <li>Utilize the necessary tools and technologies.</li>
-<li>Singlehandedly fulfill roles and responsibilities within the project.<li></Ul>
+<li>Singlehandedly fulfill roles and responsibilities within the project.<li></ul>
 
-
+<br>
 <H2>Design Goals 🎯</H2>
 <p>Crafting experiences is what distinguishes Airbnb. This comprehensive product design is committed to offering customers a unique, unforgettable experience that engenders a sense of connection to the location.
 At its core, Airbnb is driven by a simple mission statement with bold ambitions: “To create a world where anyone can belong anywhere.” At the same time, I want to create an end-to-end platform that will be able to take care of every part of a travelers trip.</p>
