@@ -1,19 +1,19 @@
 <H1>Project Goals 🎯</H1>
 
-<p>At the end of this program, I will have developed adequate knowledge and skills to implement any type of system.I will:</p>
+<p>At the end of this program, I will have developed adequate knowledge and skills to implement any type of system. I will:</p>
 
-<UL>
-<LI>Understand the project scope</LI>
+<Ul>
+<li>Understand the project scope.</li>
 <li>Identify key features to be implemented.</li>
 <li>Adhere to designated timelines and milestones.</li>
 <li>Utilize the necessary tools and technologies.</li>
-<li>Singlehandedly Fulfill roles and responsibilities within the project.<li>
-</UL>
-<br>
+<li>Singlehandedly fulfill roles and responsibilities within the project.<li>
+</Ul>
 
-<H2>Design Goals 💻</H2>
-<p>Crafting experiences is what distinguishes Airbnb. Their comprehensive product design is committed to offering customers a unique, unforgettable experience that engenders a sense of connection to the location.
-At its core, Airbnb is driven by a simple mission statement with bold ambitions: “To create a world where anyone can belong anywhere.” At the same time, they want to create an end-to-end platform that will be able to take care of every part of travelers' trips.</p>
+
+<H2>Design Goals 🎯</H2>
+<p>Crafting experiences is what distinguishes Airbnb. This comprehensive product design is committed to offering customers a unique, unforgettable experience that engenders a sense of connection to the location.
+At its core, Airbnb is driven by a simple mission statement with bold ambitions: “To create a world where anyone can belong anywhere.” At the same time, I want to create an end-to-end platform that will be able to take care of every part of a travelers trip.</p>
 
 <H2>Technologies Stack 💻</H2>
 <p>Introduction to the tech stack:
@@ -21,12 +21,13 @@ At its core, Airbnb is driven by a simple mission statement with bold ambitions:
 <b>Backend:</b> Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
 Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
-Let’s dive in! 🚀<p>
+Let’s dive in! 🚀</p>
 
 
 <h2>“UI/UX Design Planning.”</h2>
 
 <h3>Design goals and the key features that need to be implemented 🛠️</h3>
+
 <b>Property Listings:</b> Display properties with relevant details and images.
 <b>Booking System:</b> Allow users to book properties, view booking details, and manage bookings.
 <b>Search Functionality:</b> Enable users to search for properties based on various criteria (location, price, availability).
@@ -67,26 +68,46 @@ Let’s dive in! 🚀<p>
 <li>Primary Color - Teal</li>
 <li>Secondary Color - Yellow</li>
 <li>Shimmer - White</li>
+<li>Text Color - Black</li>
 </Ul>
 
 <br>
 
 <h3>Typography</h3>
 
-Font Family
+<b>Font Family</b>
+<Ul>
+<li>--font-family-base: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;</li>
+<li>--font-family-title: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;</li>
+  
+<li>--font-size-small: 1.2rem;</li>
+<li>--font-size-medium: 1.6rem;</li>
+<li>--font-size-large: 1.8rem;</li>
+<li>--font-size-x-large: 2.3rem;</li>
+<li>--font-size-xx-large: 4.8rem;</li></ul>
 
-Font Weight
+ <b>Font Weight</b>
+<ul>
+<li>--font-weight-regular: 400;
+<li>--font-weight-bold: 700;</li></ul>
 
-Font Size
-
-<br>
+<b>Font Size</b>
+<ul>
+<li>--font-weight-regular: 400;</li>
+<li>--font-weight-bold: 700;</li>
+  
+<li>--line-height-small: 1.2;</li>
+<li>--line-height-base: 1.5;</li>
+<li>--line-height-big: 1.8;</li>
+    
+</ul>
 
 <h3>Importance of identifying design properties of a mock up design.</h3>
 
 <p>Mockups, also called screen mockups, help designers visualize their creations, communicate their vision effectively to stakeholders, and gather valuable feedback. Ultimately allowing mockup design teams to identify potential issues early on and make informed design decisions.</p>
 
 <br>
-
+<br>
 
 <h2>“Project Roles and Responsibilities.”</h2>
 
@@ -112,7 +133,7 @@ Develop React components and integrate them with backend APIs.
 Ensure the application is responsive and performs well on various devices.
 Collaborate with designers to create visually appealing interfaces.
 Optimize the application for maximum speed and scalability.
-
+<br>
 <h3>Backend Developers 🔧</h3>
 <b>Overview:</b> Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
 <br>
@@ -122,7 +143,7 @@ Design and manage databases.
 Create and maintain APIs for frontend integration.
 Implement security and data protection measures.
 Optimize server performance and scalability.
-
+<br>
 <H3>Designers 🎨</H3>
 <b>Overview:</b> Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
 <br>
@@ -132,7 +153,7 @@ Design the layout and visual elements of the application.
 Ensure a consistent brand identity across the application.
 Collaborate with frontend developers to implement designs.
 Conduct usability testing to gather feedback and improve designs.
-
+<br>
 <h3>QA/Testers 🧪</h3>
 <b>Overview:</b> QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
 <br>
@@ -142,7 +163,7 @@ Perform manual and automated testing.
 Identify, document, and track bugs.
 Verify bug fixes and perform regression testing.
 Ensure the application meets quality standards and user requirements.
-
+<br>
 <H3>DevOps Engineers 🚀</H3>
 <b>Overview:</b> DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
 <br>
@@ -152,7 +173,7 @@ Manage cloud infrastructure and server configurations.
 Monitor application performance and uptime.
 Implement continuous integration and continuous deployment (CI/CD) pipelines.
 Ensure security and compliance in the production environment.
-
+<br>
 <H3>Product Owner (PO) 📋</H3>
 <b>Overview:</b> The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
 <br>
@@ -174,8 +195,14 @@ Coach the team on Agile principles and practices.
 Ensure continuous improvement within the team.
 These roles are essential for the success of a software development project. Clear communication and collaboration among team members ensure that the project is completed on time, within budget, and meets the desired quality standards.
 
+
+<br>
+<br>
+
 <h2>“UI Component Patterns”</h2>
+
 Outlined here is a Description of the components to be created, such as a Navbar, Property Card, and Footer
+
 <h3>Navbar</h3>
 A navigation bar is a UI Component which appears at the top of a window or screen, helping people navigate through a hierarchy of content. A navigation bar provides a natural place to display a title that can help people orient themselves in your app or game, and it can also include controls that affect the content below it.
 
@@ -184,3 +211,88 @@ A property card is a UI component is a design element used to present content in
 
 <h3>Footer</h3>
 A website footer is a UI pattern at the bottom (or footer) of a website or application. Footers are important website components because they display helpful information, including navigational links, contact details, policies, copyright info, and social media links, so users can learn more about the website.
+
+
+
+
+
+/* AirBnb website Root Variables
+   ============================= */
+
+   :root {
+    --color-primary: Teal;
+    --color-black: ;
+    --color-yellow: ;
+    --color-white: #a0a0a0;
+    --text-color: var(--color-black);
+  
+    --font-family-base: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-family-title: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
+    --font-size-small: 1.2rem;
+    --font-size-medium: 1.6rem;
+    --font-size-large: 1.8rem;
+    --font-size-x-large: 2.3rem;
+    --font-size-xx-large: 4.8rem;
+  
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+  
+    --line-height-small: 1.2;
+    --line-height-base: 1.5;
+    --line-height-big: 1.8;
+  
+    /** SECTION **/
+    --section-padding: 5rem 0;
+    --section-header-padding: 0 0 3rem;
+    --section-header-align: center;
+    --section-title-font-size: var(--font-size-xx-large);
+    --section-title-font-weight: var(--font-weight-bold);
+    --section-title-line-height: var(--line-height-small);
+    --section-title-margin: 0;
+    --section-title-color: var(--color-black);
+    --section-tagline-transform: uppercase;
+    --section-tagline-color: var(--color-primary);
+    --section-tagline-font-family: var(--font-family-headings);
+    --section-tagline-font-weight: var(--font-weight-bold);
+    --section-tagline-margin: 0;
+    --section-body-padding: 2rem 0 4rem;
+    --section-footer-padding: 3rem 0 0;
+    --section-footer-align: center;
+  
+    /** HEADER **/
+    --header-padding: 4rem 0 0;
+    --header-logo-position: relative;
+    --header-logo-link-display: inline-block;
+    --header-logo-link-position: absolute;
+    --header-logo-link-top: -1rem;
+    --header-logo-link-left: 0;
+  
+    /** FOOTER **/
+    --footer-padding: 5rem 0 1rem;
+  
+    /** NAVBAR **/
+    --nav-item-font-family: var(--font-family-headings);
+    --nav-item-font-weight: var(--font-weight-bold);
+    --nav-item-font-size: var(--font-size-medium);
+    --nav-item-letter-spacing: .04rem;
+    --nav-item-display: inline-block;
+    --nav-item-margin: 0 2rem 0 0;
+    --nav-item-link-hover: var(--color-white);
+  
+    /** BUTTON **/
+    --button-display: inline-block;
+    --button-padding: 1.5rem 3rem;
+    --button-border: var(--color-primary) solid 0.2rem;
+    --button-color: var(--color-black);
+    --button-text-decoration: none;
+    --button-font-size: var(--font-size-large);
+    --button-hover-color: var(--color-white);
+    --button-hover-text-decoration: none;
+    --button-hover-background: var(--color-primary);
+  
+    /** MOTION **/
+    --transition-duration: .3s;
+    --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
+  }
+  
