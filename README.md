@@ -1,14 +1,13 @@
 <H1>Project Goals 🎯</H1>
 
-<p>At the end of this program, I will have developed adequate knowledge and skills to implement any type of system. I will:</p>
-
+<p>At the end of this program, I will have developed adequate knowledge and skills to implement any type of system..</p>
+<p>I will:</p>
 <ul>
 <li>Understand the project scope.</li>
 <li>Identify key features to be implemented.</li>
 <li>Adhere to designated timelines and milestones.</li>
 <li>Utilize the necessary tools and technologies.</li>
-<li>Singlehandedly fulfill roles and responsibilities within the project.<li></ul>
-
+<li>Singlehandedly fulfill roles and responsibilities within the project.</li></ul>
 <br>
 <H2>Design Goals 🎯</H2>
 <p>Crafting experiences is what distinguishes Airbnb. This comprehensive product design is committed to offering customers a unique, unforgettable experience that engenders a sense of connection to the location.
